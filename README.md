@@ -22,5 +22,16 @@ Therefore the total bid placed of R50 000 is actually R63 250 after all the fees
 
 This project aims to make the hidden cost visible to all persons placing a bid at the online auctions
 
+### **How to use source code**
+
+* Run the python file in the terminal
+* The program will ask for the amount you would like to bid in Rands
+* Enter the bid amount
+* The program will execute
+* There are two results that will be displayed
+  - Without Vat:
+  - With Vat:
+
+
 
 
