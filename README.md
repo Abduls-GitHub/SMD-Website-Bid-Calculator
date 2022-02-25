@@ -18,6 +18,8 @@ R2 500 document handling fee
 
 Therefore the total bid placed of R50 000 is actually R63 250 after all the fees are included
 
+## **Solution**
+
 This project aims to make the hidden cost visible to all persons placing a bid at the online auctions
 
 
