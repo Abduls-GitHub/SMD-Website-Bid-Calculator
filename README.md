@@ -1,4 +1,4 @@
-# SMD-Website-Bid-Calculator-Hidden Cost Issue
+# SMD Website Bid Calculator Hidden Cost Issue
 This project built using python addresses the Bidding amount issue on the [(url)https://www.smd.co.za/] website. 
 
 ## **ISSUE:**
