@@ -12,9 +12,9 @@ Placing a bid of R50 000 at online auction
 
 Actual liability :
 
--5% buyers premium
--R2 500 document handling fee
--15% VAT on total of above bid , buyers premium and document handling fee
+- 5% buyers premium
+- R2 500 document handling fee
+- 15% VAT on total of above bid , buyers premium and document handling fee
 
 Therefore the total bid placed of R50 000 is actually R63 250 after all the fees are included
 
